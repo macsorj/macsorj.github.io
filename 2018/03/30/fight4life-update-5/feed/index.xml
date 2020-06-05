@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Fight4Life Update 5	</title>
+	<atom:link href="/2018/03/30/fight4life-update-5/feed/" rel="self" type="application/rss+xml" />
+	<link>/2018/03/30/fight4life-update-5/</link>
+	<description>Fight4LifeMC is a Minecraft server that has been running for over 5 years and is the perfect place for playing with friends!</description>
+	<lastBuildDate>Fri, 09 Nov 2018 18:31:31 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.1</generator>
+	<item>
+		<title>
+		By: macsorj		</title>
+		<link>/2018/03/30/fight4life-update-5/#comment-8</link>
+
+		<dc:creator><![CDATA[macsorj]]></dc:creator>
+		<pubDate>Fri, 22 Jun 2018 00:38:22 +0000</pubDate>
+		<guid isPermaLink="false">/fight4life/?p=195#comment-8</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/2018/03/30/fight4life-update-5/#comment-7&quot;&gt;macsorj&lt;/a&gt;.
+
+reply test lol]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/2018/03/30/fight4life-update-5/#comment-7">macsorj</a>.</p>
+<p>reply test lol</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: macsorj		</title>
+		<link>/2018/03/30/fight4life-update-5/#comment-7</link>
+
+		<dc:creator><![CDATA[macsorj]]></dc:creator>
+		<pubDate>Fri, 22 Jun 2018 00:38:13 +0000</pubDate>
+		<guid isPermaLink="false">/fight4life/?p=195#comment-7</guid>
+
+					<description><![CDATA[new theme comment system testtt]]></description>
+			<content:encoded><![CDATA[<p>new theme comment system testtt</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

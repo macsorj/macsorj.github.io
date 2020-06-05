@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Fight4LifeMC</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Fight4LifeMC is a Minecraft server that has been running for over 5 years and is the perfect place for playing with friends!</description>
+	<lastBuildDate>Sun, 30 Dec 2018 04:49:12 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/06/cropped-f4lsquare64-32x32.png</url>
+	<title>Fight4LifeMC</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Fight4Life Update 6 (!)</title>
+		<link>/2018/12/29/fight4life-update-6/</link>
+					<comments>/2018/12/29/fight4life-update-6/#respond</comments>
+		
+		<dc:creator><![CDATA[macsorj]]></dc:creator>
+		<pubDate>Sat, 29 Dec 2018 22:03:57 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/fight4life/?p=540</guid>
+
+					<description><![CDATA[Hello and happy holidays everyone! The rollout of Fight4Life Update 6 has finally been completed after approximately 7 months! This is by far the most <a class="mh-excerpt-more" href="/2018/12/29/fight4life-update-6/" title="Fight4Life Update 6 (!)">[...]</a>]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="540" class="elementor elementor-540 elementor-bc-flex-widget" data-elementor-settings="[]">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section class="elementor-element elementor-element-2f3b060 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="2f3b060" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-bff4d55 elementor-column elementor-col-100 elementor-top-column" data-id="bff4d55" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-8adbe6d elementor-widget elementor-widget-text-editor" data-id="8adbe6d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p style="text-align: left;"><span style="color: #000000;">Hello and happy holidays everyone!</span></p><p><span style="color: #000000;">The rollout of Fight4Life Update 6 has finally been completed after approximately 7 months! This is by far the most transformative update in Fight4Life history. The following are just the major changes that were made (there are too many to list!) :</span></p><p style="text-align: center;"><span style="color: #000000;"><strong><span style="text-decoration: underline;">General Changes to Existing Features/Content</span>:</strong></span></p><ul><li><span style="color: #000000;">Spigot updated to 1.13.2</span></li><li><span style="color: #000000;">Server no longer uses old 1.8 protocol</span></li><li><span style="color: #000000;">Central hub removed as it is no longer needed</span></li><li><span style="color: #000000;">Server no longer uses Bungeecord</span></li><li><span style="color: #000000;">Shop has been replaced with a new, much larger shop. Prices have also been adjusted</span></li><li><span style="color: #000000;">Ranks now have new names and kits</span></li><li><span style="color: #000000;">Number of homes for each rank has been adjusted</span></li><li><span style="color: #000000;">Ranks are now acquired by playtime hours and not by purchase with in-game currency</span></li><li><span style="color: #000000;">Website has been redesigned due to performance issues on certain web browsers</span></li><li><span style="color: #000000;">The old combat system has been replaced</span></li></ul><p style="text-align: center;"><span style="color: #000000;"><span style="text-decoration: underline;"><strong>Content/Features Removed</strong></span>:</span></p><ul><li><span style="color: #000000;">Anarchy game mode due to low player count</span></li><li><span style="color: #000000;">Skyblock game mode due to high server resource usage</span></li><li><span style="color: #000000;">Factions game mode due to high server resource usage</span></li><li><span style="color: #000000;">A few unnecessary plugins</span></li></ul><p style="text-align: center;"><span style="color: #000000;"><b><span style="text-decoration: underline;">Content/Features Added</span>:<br /></b></span></p><ul><li><span style="color: #000000;"><b> </b>New token currency<b> </b>for purchasing commands and other intangible items.</span></li><li><span style="color: #000000;"> Live dynamic map of the entire server that can be viewed at </span><a href="/map" target="_blank" rel="noopener">/map</a></li><li><span style="color: #000000;"> An elections channel on the Discord server where players can vote on issues such as features /content from suggestions, as well as issues involving rules, administration, or the punishment of</span><br /><span style="color: #000000;">players</span></li></ul><p style="text-align: center;"><span style="color: #000000;"><b><span style="text-decoration: underline;">Known Issues</span>:</b></span></p><ul><li><span style="color: #000000;">Some commands do not work correctly or at all in the command block</span></li><li><span style="color: #000000;">/r or /reply does not work, forcing players to type /m [player] or a similar command each time they wish to reply to a message</span></li><li><span style="color: #000000;"> Performance may be slower at times due to a high number of plugins. Some content/features may be removed in future Fight4Life updates.</span></li></ul><p><span style="color: #000000;">The next Fight4Life update will begin rolling out after the release of Minecraft 1.14, which will likely be an even bigger update than 1.13, so expect a lot of new content throughout 2019</span></p><p style="text-align: center;"> </p></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>/2018/12/29/fight4life-update-6/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>What does Minecraft 1.13 mean for Fight4Life?</title>
+		<link>/2018/07/27/what-does-minecraft-1-13-mean-for-fight4life/</link>
+					<comments>/2018/07/27/what-does-minecraft-1-13-mean-for-fight4life/#respond</comments>
+		
+		<dc:creator><![CDATA[macsorj]]></dc:creator>
+		<pubDate>Fri, 27 Jul 2018 23:35:22 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/fight4life/?p=395</guid>
+
+					<description><![CDATA[Hello everyone, so you may know that on July 18th, the Minecraft 1.13 Aquatic Update was officially released. This is the single largest update in <a class="mh-excerpt-more" href="/2018/07/27/what-does-minecraft-1-13-mean-for-fight4life/" title="What does Minecraft 1.13 mean for Fight4Life?">[...]</a>]]></description>
+										<content:encoded><![CDATA[<p>Hello everyone, so you may know that on July 18th, the Minecraft 1.13 Aquatic Update was officially released. This is the single largest update in Minecraft history, although it may not look like it. For most of you this update probably doesn&#8217;t seem very significant because only a few updates to the gameplay and features were made. However, the reason I say this update is the biggest one yet is because of the massive backend API changes that the game has undergone. The primary focus of 1.13 for the game developers was all the technical stuff, not the new content.</p>
+<p>So what does this mean for Fight4Life? Because of the huge changes that are happening, it will likely be many months before we can support Minecraft 1.13 and the updates that will follow. This is because the SpigotMC team and all of the plugin developers have tons of work to do when they update their stuff. I do not think we will be able to continue running the 1.8 API because of all the changes that must be made, so we might have to drop support for 1.12 and all versions that come before it when we finally move to 1.13. A few plugins that the server runs right now may have to be removed in the future.</p>
+<p>This update will not significantly impact gameplay on Fight4lifeMC, but will seriously slow down progress towards new content and features on the server. Right now there&#8217;s not much to do except wait, because like I said before, the SpigotMC team has a lot of work ahead of them before they are able to release a stable build of Spigot. It will likely be anywhere from 2 to 9 months before we can begin the update process. If you want to learn more about the changes to Spigot and the new API, you can read this update written by md_5, a SpigotMC administrator and developer: <a href="https://goo.gl/1WX9su">https://goo.gl/1WX9su</a></p>
+<p>One last thing: Yeah I know the server is kinda dead right now lol but i&#8217;m going to work on it soon. I&#8217;ve been really busy with life &#8216;n&#8217; stuff.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2018/07/27/what-does-minecraft-1-13-mean-for-fight4life/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Fight4Life Update 5</title>
+		<link>/2018/03/30/fight4life-update-5/</link>
+					<comments>/2018/03/30/fight4life-update-5/#comments</comments>
+		
+		<dc:creator><![CDATA[macsorj]]></dc:creator>
+		<pubDate>Fri, 30 Mar 2018 19:20:10 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Fight4life]]></category>
+		<category><![CDATA[fight4life.tk]]></category>
+		<category><![CDATA[Fight4LifeMC]]></category>
+		<category><![CDATA[macsorj]]></category>
+		<category><![CDATA[Minecraft]]></category>
+		<category><![CDATA[Update 5]]></category>
+		<guid isPermaLink="false">/fight4life/?p=195</guid>
+
+					<description><![CDATA[Fight4Life Update 5 is here! Anarchy game mode added! New portals in spawn for future content updates The survival portal now leads to a hub <a class="mh-excerpt-more" href="/2018/03/30/fight4life-update-5/" title="Fight4Life Update 5">[...]</a>]]></description>
+										<content:encoded><![CDATA[<h1></h1>
+<h1></h1>
+<h1 style="text-align: center;"><span style="color: #008000;">Fight4Life Update 5 is here!</span></h1>
+<ul>
+<li style="text-align: center;">Anarchy game mode added!</li>
+<li style="text-align: center;">New portals in spawn for future content updates</li>
+<li style="text-align: center;">The survival portal now leads to a hub of survival related game modes, including Anarchy</li>
+<li style="text-align: center;">Combat mechanics updated</li>
+<li style="text-align: center;">Updated server icon in multiplayer menu</li>
+<li style="text-align: center;">Casino removed from survival as it caused players to become too wealthy<strong>:</strong></li>
+</ul>
+<hr />
+<h3 style="text-align: center;"><strong>Pictures:</strong></h3>
+<p>&nbsp;</p>
+<p><img class="alignnone wp-image-197 size-large aligncenter" src="/fight4life/wp-content/uploads/2018/03/2018-03-30_18.24.49-1024x576.png" alt="" width="1024" height="576" srcset="/wp-content/uploads/2018/03/2018-03-30_18.24.49-1024x576.png 1024w, /wp-content/uploads/2018/03/2018-03-30_18.24.49-300x169.png 300w, /wp-content/uploads/2018/03/2018-03-30_18.24.49-768x432.png 768w, /wp-content/uploads/2018/03/2018-03-30_18.24.49.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /> <img class="alignnone wp-image-198 size-large aligncenter" src="/fight4life/wp-content/uploads/2018/03/2018-03-30_18.23.32-1024x576.png" alt="" width="1024" height="576" srcset="/wp-content/uploads/2018/03/2018-03-30_18.23.32-1024x576.png 1024w, /wp-content/uploads/2018/03/2018-03-30_18.23.32-300x169.png 300w, /wp-content/uploads/2018/03/2018-03-30_18.23.32-768x432.png 768w, /wp-content/uploads/2018/03/2018-03-30_18.23.32.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /> <img class="alignnone wp-image-199 size-large aligncenter" src="/fight4life/wp-content/uploads/2018/03/2018-03-30_18.22.51-1024x576.png" alt="" width="1024" height="576" srcset="/wp-content/uploads/2018/03/2018-03-30_18.22.51-1024x576.png 1024w, /wp-content/uploads/2018/03/2018-03-30_18.22.51-300x169.png 300w, /wp-content/uploads/2018/03/2018-03-30_18.22.51-768x432.png 768w, /wp-content/uploads/2018/03/2018-03-30_18.22.51.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /> <img class="alignnone wp-image-200 size-large aligncenter" src="/fight4life/wp-content/uploads/2018/03/2018-03-30_18.26.06-1024x576.png" alt="" width="1024" height="576" srcset="/wp-content/uploads/2018/03/2018-03-30_18.26.06-1024x576.png 1024w, /wp-content/uploads/2018/03/2018-03-30_18.26.06-300x169.png 300w, /wp-content/uploads/2018/03/2018-03-30_18.26.06-768x432.png 768w, /wp-content/uploads/2018/03/2018-03-30_18.26.06.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /> <img class="alignnone wp-image-201 size-large aligncenter" src="/fight4life/wp-content/uploads/2018/03/2018-03-30_18.27.58-1024x576.png" alt="" width="1024" height="576" srcset="/wp-content/uploads/2018/03/2018-03-30_18.27.58-1024x576.png 1024w, /wp-content/uploads/2018/03/2018-03-30_18.27.58-300x169.png 300w, /wp-content/uploads/2018/03/2018-03-30_18.27.58-768x432.png 768w, /wp-content/uploads/2018/03/2018-03-30_18.27.58.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+<div id="s3gt_translate_tooltip_mini" class="s3gt_translate_tooltip_mini_box" style="background: initial !important; border: initial !important; border-radius: initial !important; border-spacing: initial !important; border-collapse: initial !important; direction: ltr !important; flex-direction: initial !important; font-weight: initial !important; height: initial !important; letter-spacing: initial !important; min-width: initial !important; max-width: initial !important; min-height: initial !important; max-height: initial !important; margin: auto !important; outline: initial !important; padding: initial !important; position: absolute; table-layout: initial !important; text-align: initial !important; text-shadow: initial !important; width: initial !important; word-break: initial !important; word-spacing: initial !important; overflow-wrap: initial !important; box-sizing: initial !important; display: initial !important; color: inherit !important; font-size: 13px !important; font-family: X-LocaleSpecific, sans-serif, Tahoma, Helvetica !important; line-height: 13px !important; vertical-align: top !important; white-space: inherit !important; left: 1069px; top: 101px; opacity: 0.6;"></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2018/03/30/fight4life-update-5/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Fight4Life Update 4</title>
+		<link>/2018/01/13/fight4life-update-4/</link>
+					<comments>/2018/01/13/fight4life-update-4/#comments</comments>
+		
+		<dc:creator><![CDATA[macsorj]]></dc:creator>
+		<pubDate>Sat, 13 Jan 2018 21:18:44 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/fight4life/?p=160</guid>
+
+					<description><![CDATA[Fight4Life Update 4 Has Arrived! Changes made: Fight4Life now uses the 1.8 protocol meaning you can log in using any client version from 1.8 to <a class="mh-excerpt-more" href="/2018/01/13/fight4life-update-4/" title="Fight4Life Update 4">[...]</a>]]></description>
+										<content:encoded><![CDATA[<section class="entry-content clearfix">
+<h3 style="text-align: center;"><span style="color: #008000;">Fight4Life Update 4 Has Arrived!<br />
+</span></h3>
+<p style="text-align: center;"><strong>Changes made:</strong></p>
+<ul>
+<li style="text-align: center;">Fight4Life now uses the 1.8 protocol meaning you can log in using any client version from 1.8 to 1.12.2!</li>
+<li style="text-align: center;">Combat mechanics in the Factions realm have been modified to make shields/blocking more useful</li>
+<li style="text-align: center;">Shields can now be decorated in factions!</li>
+<li style="text-align: center;">You can now dual wield items in factions!</li>
+<li style="text-align: center;">A few optimizations were made in the server configurations</li>
+</ul>
+</section>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2018/01/13/fight4life-update-4/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Fight4life Update 3</title>
+		<link>/2017/12/27/fight4life-update-3/</link>
+					<comments>/2017/12/27/fight4life-update-3/#comments</comments>
+		
+		<dc:creator><![CDATA[macsorj]]></dc:creator>
+		<pubDate>Wed, 27 Dec 2017 16:18:58 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/fight4life/?p=136</guid>
+
+					<description><![CDATA[After nearly a month of development, Fight4Life Update 3 has finally been completed! Changes made: Skyblock has been moved from Survival to its own realm <a class="mh-excerpt-more" href="/2017/12/27/fight4life-update-3/" title="Fight4life Update 3">[...]</a>]]></description>
+										<content:encoded><![CDATA[<h3 style="text-align: center;"><span style="color: #008000;">After nearly a month of development, Fight4Life Update 3 has finally been completed!</span></h3>
+<p style="text-align: center;"><strong>Changes made:</strong></p>
+<ul>
+<li style="text-align: center;"><span style="color: #856942;">Skyblock has been moved from Survival to its own realm</span></li>
+<li style="text-align: center;"><span style="color: #856942;">A new spawn now serves as a hub to connect to all of the realms. The old spawn is now the spawn for the survival realm</span></li>
+<li style="text-align: center;"><span style="color: #856942;">The old Minecraft combat system is now in use in all realms except for Skyblock</span></li>
+<li style="text-align: center;"><span style="color: #856942;">The factions realm was introduced</span></li>
+<li style="text-align: center;"><span style="color: #856942;">Several broken plugins were removed</span></li>
+<li style="text-align: center;"><span style="color: #856942;">The vote sites were updated</span></li>
+<li style="text-align: center;"><span style="color: #856942;">Crate rewards in the factions realm were updated</span></li>
+<li style="text-align: center;"><span style="color: #856942;">The server has been upgraded to 24GB of RAM from 12</span></li>
+<li style="text-align: center;"><span style="color: #856942;">All server files were moved to solid state storage, vastly improving the loading times</span></li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2017/12/27/fight4life-update-3/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Fight4Life&#8217;s 5th Year</title>
+		<link>/2017/12/26/fight4lifes-5th-year/</link>
+					<comments>/2017/12/26/fight4lifes-5th-year/#respond</comments>
+		
+		<dc:creator><![CDATA[macsorj]]></dc:creator>
+		<pubDate>Mon, 25 Dec 2017 19:57:55 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://localhost/fight4life/?p=91</guid>
+
+					<description><![CDATA[&#160; Today marks the 5th year since Fight4Life launched to the public! It has been a long, incredibly fun journey, and there will be many <a class="mh-excerpt-more" href="/2017/12/26/fight4lifes-5th-year/" title="Fight4Life&#8217;s 5th Year">[...]</a>]]></description>
+										<content:encoded><![CDATA[<p>&nbsp;</p>
+<p style="text-align: left;">Today marks the 5th year since Fight4Life launched to the public! It has been a long, incredibly fun journey, and there will be many more great times to come in the future! The server and the community has had a huge impact on my life. It&#8217;s impossible to see how much different everything would be for me if it hadn&#8217;t existed. I&#8217;ve met some incredible people over the years through the server, and there are so many memorable events and adventures that have happened.</p>
+<p style="text-align: left;">I hope everyone continues to help the server grow, improve, and most importantly, for everyone to have fun!</p>
+<p>&nbsp;</p>
+<p style="text-align: center;">Here are all of the people I would like to thank for making Fight4Life great:</p>
+<p style="text-align: center;">IsraelCabrera</p>
+<p style="text-align: center;">xXZachTheKingXx</p>
+<p style="text-align: center;">Abomb2002</p>
+<p style="text-align: center;">Westongc</p>
+<p style="text-align: center;">LeoTheGamer</p>
+<p style="text-align: center;">Zombieslyer32</p>
+<p style="text-align: center;">Marty445</p>
+<p style="text-align: center;">Queen_Asuna</p>
+<p style="text-align: center;">NoHaxJustDrake</p>
+<p style="text-align: center;">Oeia1021</p>
+<p style="text-align: center;">Muntril123</p>
+<p style="text-align: center;">Kazuto_KirigayaX</p>
+<p style="text-align: center;">Littlecarrie</p>
+<p style="text-align: center;">JaguarCupCake</p>
+<h3 style="text-align: center;">And a huge thank you to:</h3>
+<h4 style="text-align: center;">TheCrafterGirl</h4>
+<h4 style="text-align: center;">Lightlord323</h4>
+<h4 style="text-align: center;">Mason787</h4>
+<h4 style="text-align: center;"></h4>
+<div id="s3gt_translate_tooltip_mini" class="s3gt_translate_tooltip_mini_box" style="background: initial !important; border: initial !important; border-radius: initial !important; border-spacing: initial !important; border-collapse: initial !important; direction: ltr !important; flex-direction: initial !important; font-weight: initial !important; height: initial !important; letter-spacing: initial !important; min-width: initial !important; max-width: initial !important; min-height: initial !important; max-height: initial !important; margin: auto !important; outline: initial !important; padding: initial !important; position: absolute; table-layout: initial !important; text-align: initial !important; text-shadow: initial !important; width: initial !important; word-break: initial !important; word-spacing: initial !important; overflow-wrap: initial !important; box-sizing: initial !important; display: initial !important; color: inherit !important; font-size: 13px !important; font-family: X-LocaleSpecific, sans-serif, Tahoma, Helvetica !important; line-height: 13px !important; vertical-align: top !important; white-space: inherit !important; left: 667px; top: 291px;">
+<div id="s3gt_translate_tooltip_mini_logo" class="s3gt_translate_tooltip_mini" title="Translate selected text"></div>
+<div id="s3gt_translate_tooltip_mini_sound" class="s3gt_translate_tooltip_mini" title="Play"></div>
+<div id="s3gt_translate_tooltip_mini_copy" class="s3gt_translate_tooltip_mini" title="Copy text to Clipboard"></div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2017/12/26/fight4lifes-5th-year/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

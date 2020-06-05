@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: What does Minecraft 1.13 mean for Fight4Life?	</title>
+	<atom:link href="/2018/07/27/what-does-minecraft-1-13-mean-for-fight4life/feed/" rel="self" type="application/rss+xml" />
+	<link>/2018/07/27/what-does-minecraft-1-13-mean-for-fight4life/</link>
+	<description>Fight4LifeMC is a Minecraft server that has been running for over 5 years and is the perfect place for playing with friends!</description>
+	<lastBuildDate>Fri, 09 Nov 2018 17:50:22 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.1</generator>
+</channel>
+</rss>

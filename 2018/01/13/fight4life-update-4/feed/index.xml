@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Fight4Life Update 4	</title>
+	<atom:link href="/2018/01/13/fight4life-update-4/feed/" rel="self" type="application/rss+xml" />
+	<link>/2018/01/13/fight4life-update-4/</link>
+	<description>Fight4LifeMC is a Minecraft server that has been running for over 5 years and is the perfect place for playing with friends!</description>
+	<lastBuildDate>Fri, 09 Nov 2018 17:59:08 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.1</generator>
+	<item>
+		<title>
+		By: Macsorj		</title>
+		<link>/2018/01/13/fight4life-update-4/#comment-6</link>
+
+		<dc:creator><![CDATA[Macsorj]]></dc:creator>
+		<pubDate>Mon, 15 Jan 2018 02:57:37 +0000</pubDate>
+		<guid isPermaLink="false">/fight4life/?p=160#comment-6</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/2018/01/13/fight4life-update-4/#comment-5&quot;&gt;NoHaxJustDrake&lt;/a&gt;.
+
+its fine now lol]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/2018/01/13/fight4life-update-4/#comment-5">NoHaxJustDrake</a>.</p>
+<p>its fine now lol</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: NoHaxJustDrake		</title>
+		<link>/2018/01/13/fight4life-update-4/#comment-5</link>
+
+		<dc:creator><![CDATA[NoHaxJustDrake]]></dc:creator>
+		<pubDate>Mon, 15 Jan 2018 00:09:08 +0000</pubDate>
+		<guid isPermaLink="false">/fight4life/?p=160#comment-5</guid>
+
+					<description><![CDATA[hey why did the server crash lol :D]]></description>
+			<content:encoded><![CDATA[<p>hey why did the server crash lol 😀</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
